@@ -28,7 +28,7 @@ namespace MonitorService
             this.CanPauseAndContinue = false;
             
             timer = new Timer();
-            timer.Interval = 2000;
+            timer.Interval = 2000;  //initial time is just 2 seconds. After that, OnTimer procedure takes control
             timer.Enabled = true;
             timer.Elapsed += new ElapsedEventHandler(OnTimer);
 			
