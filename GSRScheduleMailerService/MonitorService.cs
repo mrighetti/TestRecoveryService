@@ -37,7 +37,7 @@ namespace MonitorService
         private static bool SendMailMessage(MailSettings ms, bool Enabled)
         {
             if (!Enabled)
-                return true;
+                return true; //this goes to test branch
 
             Log LocalLog = new Log(AppDomain.CurrentDomain.BaseDirectory + "Log.xml");
 
