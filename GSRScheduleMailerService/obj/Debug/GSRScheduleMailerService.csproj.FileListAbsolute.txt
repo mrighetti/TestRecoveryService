@@ -1,0 +1,17 @@
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.exe
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.pdb
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\bin\Debug\GSRScheduleMailerService.exe
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\bin\Debug\GSRScheduleMailerService.pdb
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\ResolveAssemblyReference.cache
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.GSRScheduleMailerService.resources
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.ProjectInstaller.resources
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documenti\Progetti\Sviluppo\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.GSRScheduleMailerService.resources
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.ProjectInstaller.resources
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\GSRScheduleMailerService.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\bin\Debug\MANScheduleMailerService.exe
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\bin\Debug\MANScheduleMailerService.pdb
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\MANScheduleMailerService.exe
+D:\My Documents\Visual Studio 2010\Projects\GSRScheduleMailerService\GSRScheduleMailerService\obj\Debug\MANScheduleMailerService.pdb

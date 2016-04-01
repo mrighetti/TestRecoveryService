@@ -1,0 +1,8 @@
+bin\Debug\GSRScheduleMailerService.exe
+bin\Debug\GSRScheduleMailerService.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GSRScheduleMailerService.exe
+obj\Debug\GSRScheduleMailerService.pdb
+obj\Debug\GSRScheduleMailerService.csproj.GenerateResource.Cache
+obj\Debug\GSRScheduleMailerService.ProjectInstaller.resources
+obj\Debug\GSRScheduleMailerService.GSRScheduleMailerService.resources

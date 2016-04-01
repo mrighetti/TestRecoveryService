@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe
+Installing service ServiceMonitor...
+Creating EventLog source ServiceMonitor in log Application...
+Rolling back assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe
+Restoring event log to previous state for source ServiceMonitor.
+Installing assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe
+Installing service ServiceMonitor...
+Service ServiceMonitor has been successfully installed.
+Creating EventLog source ServiceMonitor in log Application...
+Committing assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe
+Installing assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe
+Installing service ServiceMonitor...
+Service ServiceMonitor has been successfully installed.
+Creating EventLog source ServiceMonitor in log Application...
+Committing assembly 'C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.InstallLog
+   assemblypath = C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Release\pServiceMonitor.exe

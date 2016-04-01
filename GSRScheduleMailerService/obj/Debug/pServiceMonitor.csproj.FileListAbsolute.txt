@@ -1,0 +1,8 @@
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Debug\pServiceMonitor.exe
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\bin\Debug\pServiceMonitor.pdb
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\MonitorService.MonitorService.resources
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\MonitorService.ProjectInstaller.resources
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\pServiceMonitor.csproj.GenerateResource.Cache
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\pServiceMonitor.exe
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\pServiceMonitor.pdb
+C:\Users\mrighetti\Documents\Visual Studio 2013\Projects\CONscheduleMailerService\GSRScheduleMailerService\obj\Debug\pServiceMonitor.csprojResolveAssemblyReference.cache
